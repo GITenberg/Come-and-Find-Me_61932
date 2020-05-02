@@ -1,5 +1,5 @@
 _repo: Come-and-Find-Me_61932
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Blumenschein, E. L. (Ernest Leonard)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '7601'
     url: http://www.gutenberg.org/2009/agents/7601
     wikipedia: https://en.wikipedia.org/wiki/Ernest_L._Blumenschein
+covers:
+- cover_type: archival
+  image_path: 61932-h/images/cover.jpg
 creator:
   author:
     agent_name: Robins, Elizabeth
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3274
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61932#Come-and-Find-Me
 gutenberg_issued: '2020-04-25'
 gutenberg_type: Text
 identifiers:
